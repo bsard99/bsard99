@@ -17,7 +17,7 @@ I build hands-on labs to close the gap between coursework and real SOC/help desk
 
 ### 📌 Featured Projects
 - **[SOC-Automation-Homelab](https://github.com/bsard99/SOC-Automation-Homelab)** — Cloud-hosted SOC pipeline (Splunk + Wazuh/TheHive) with MITRE ATT&CK-aligned detections for credential dumping (T1003)
-- **[Active-Directory-&-Ticketing-Lab](https://github.com/bsard99/Ticketing-and-Active-Directory-Project)** — Full AD + osTicket environment simulating small-enterprise IT support, domain setup, GPO administration
+- **[Active-Directory-and-Ticketing-Lab](https://github.com/bsard99/Ticketing-and-Active-Directory-Project)** — Full AD + osTicket environment simulating small-enterprise IT support, domain setup, GPO administration
 
 ### 📫 Contact
 sardibrandon1@gmail.com
